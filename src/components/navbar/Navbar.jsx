@@ -84,11 +84,12 @@ const Navbar = () => {
                     </a>
                   </div> : ""}
                   <div className="flow-root">
-                    <Link to={'/'} className="-m-2 block p-2 font-medium text-gray-900 cursor-pointer">
+                    <Link to={'/login'} className="-m-2 block p-2 font-medium text-gray-900 cursor-pointer">
                       <img
                         className="inline-block w-10 h-10 rounded-full"
                         src="https://lh3.googleusercontent.com/a/ACg8ocJrD6E2xFYPQjX8nUUEnZdN0QUVDdWYfR8gvmYZQk7aBxEhjeis=s360-c-no"
-                      alt="Sarvesh Changan" />                                        </Link>
+                      alt="Sarvesh Changan" />                                        
+                      </Link>
                   </div>
                 </div>
 
@@ -169,12 +170,12 @@ const Navbar = () => {
                   </a>
                 </div>
                 <div className="hidden lg:ml-8 lg:flex">
-                  <a href="#" className="flex items-center text-gray-700 ">
+                    <Link to={'/login'} className="-m-2 p-2 font-medium flex items-center text-gray-900 cursor-pointer">
                     <img
                       className="inline-block w-10 h-10 rounded-full"
                       src="https://lh3.googleusercontent.com/a/ACg8ocJrD6E2xFYPQjX8nUUEnZdN0QUVDdWYfR8gvmYZQk7aBxEhjeis=s360-c-no"
                       alt="Sarvesh Changan" />
-                  </a>
+                      </Link>
                 </div>
 
                 {/* Search */}
