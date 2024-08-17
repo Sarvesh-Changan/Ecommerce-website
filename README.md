@@ -1,10 +1,9 @@
-Certainly! Here's a customized version of your README file with bold headings and some enhancements:
-
----
-
 # **E-commerce Platform**
 
 A robust e-commerce platform built with **React**, **Tailwind CSS**, **Firebase**, **Redux**, and **Razorpay**.
+
+# **Image**
+<img src='ecommerce_live_img.png' />
 
 # **View Live Demo**
 <a href='https://snapstore-alpha.vercel.app'>View Live</a>
