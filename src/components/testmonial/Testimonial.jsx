@@ -40,7 +40,7 @@ function Testimonial() {
                   style={{ color: mode === "dark" ? "#ff4162" : "" }}
                   className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase"
                 >
-                  Kamal Nayan Upadhyay
+                  Sarvesh Vijay Changan
                 </h2>
                 <p
                   style={{ color: mode === "dark" ? "white" : "" }}
