@@ -3,7 +3,7 @@
 A robust e-commerce platform built with **React**, **Tailwind CSS**, **Firebase**, **Redux**, and **Razorpay**.
 
 # **Image**
-<img src='ecommerce_live_img.png' />
+<a href='https://snapstore-alpha.vercel.app'><img src='ecommerce_live_img.png' /></a>
 
 # **View Live Demo**
 <a href='https://snapstore-alpha.vercel.app'>View Live</a>
