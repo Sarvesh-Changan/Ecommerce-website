@@ -33,10 +33,7 @@ function Testimonial() {
                   style={{ color: mode === "dark" ? "white" : "" }}
                   className="leading-relaxed"
                 >
-                  Edison bulb retro cloud bread echo park, helvetica stumptown
-                  taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
-                  ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                  adaptogen squid fanny pack vaporware.
+                  I'm extremely satisfied with my purchase! The website is user-friendly, making it easy to find exactly what I needed. The checkout process was smooth, and I appreciated the multiple payment options. My order arrived quickly and was well-packaged. Customer service was responsive and helpful when I had a question. I highly recommend this site for anyone looking for a hassle-free shopping experience!
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                 <h2
@@ -64,10 +61,7 @@ function Testimonial() {
                   style={{ color: mode === "dark" ? "white" : "" }}
                   className="leading-relaxed"
                 >
-                  Edison bulb retro cloud bread echo park, helvetica stumptown
-                  taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
-                  ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                  adaptogen squid fanny pack vaporware.
+                  I had a great experience shopping on this website. The product descriptions were detailed, and the photos were accurate, so I knew exactly what I was getting. The prices are competitive, and I found some great deals. Shipping was faster than expected, and the items arrived in perfect condition. I also loved the variety of products available. Definitely will shop here again!
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                 <h2
@@ -95,10 +89,7 @@ function Testimonial() {
                   style={{ color: mode === "dark" ? "white" : "" }}
                   className="leading-relaxed"
                 >
-                  Edison bulb retro cloud bread echo park, helvetica stumptown
-                  taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
-                  ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                  adaptogen squid fanny pack vaporware.
+                  This is my go-to e-commerce site! The interface is intuitive, and the search function works flawlessly, helping me find what I need in seconds. I was impressed by the wide range of products and the quality of everything I've ordered so far. The customer service team was friendly and resolved my issue quickly. Plus, the fast shipping and secure packaging make the entire process stress-free. Highly recommended!
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                 <h2
